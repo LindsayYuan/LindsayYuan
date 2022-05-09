@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LindsayYuan
 - 👀 I’m interested in Education、History and Art.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on research to focuse on student psychology, parent-child relationships and education in ancient China.
+- 💞️ I’m looking to collaborate on research to focus on student psychology, parent-child relationships and education in ancient China.
 - 📫 How to reach me ... ❤❤❤
 
 <!---
